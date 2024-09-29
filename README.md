@@ -1,3 +1,5 @@
+<img src="https://github.com/niagangar10/niagangar10/blob/main/Untitled%20design.png?raw=true" alt="Bordered Image" style="border: 2px solid black; border-radius: 10px;">
+
 ### Hi there, I'm Nia Gangar 👋
 
 I’m a data enthusiast who loves turning complex data into meaningful insights that help shape business strategies and drive impactful solutions. With a strong background in data science and analytics, I specialize in blending predictive modeling, machine learning, and data engineering to create systems that enhance decision-making and optimize performance. 
