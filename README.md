@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Nia Gangar 👋
 
-<!--
-**niagangar10/niagangar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data enthusiast who loves turning complex data into meaningful insights that help shape business strategies and drive impactful solutions. With a strong background in data science and analytics, I specialize in blending predictive modeling, machine learning, and data engineering to create systems that enhance decision-making and optimize performance. 
 
-Here are some ideas to get you started:
+In my roles as a Data Analytics Intern and an Analyst, I’m always excited to dive into challenging problems—whether it’s designing interactive dashboards to visualize key metrics or developing AI-driven models that streamline processes. I’m passionate about how data can transform industries, and I love collaborating on projects that push the boundaries of innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+😄 **What I Love**: Using data to solve real-world problems and inform business strategy. Whether it's improving a company's efficiency or unlocking new opportunities, I believe data is at the heart of great decisions.  
+💼 **Roles**: Data Analytics Intern at Compass Group Inc., Associate Analyst at Deloitte Consulting LLP  
+🎓 **Education**: Master’s in Applied Data Science (University of Chicago), Bachelor’s in Applied Statistics and Analytics (NMIMS University, Mumbai)  
+💡 **What Excites Me**: I have a keen interest in **Predictive Analytics**, **Natural Language Processing** (NLP), **Large Language Models** (LLMs), and how these technologies can be applied to strategic business decision-making.  
+📫 **Let’s Connect**: LinkedIn(https://www.linkedin.com/in/niagangar/) | GitHub(https://github.com/niagangar/nia-githubrepo)  
+⚓ **Fun Fact**: I’m fascinated by the stock market and enjoy analyzing charts and trends in my free time!
+
+### Tech Stack:
+- **Languages**: Python, R, SQL, PL-SQL  
+- **Data Visualization**: Power BI, Tableau  
+- **Machine Learning & AI**: TensorFlow, Scikit-Learn, MLflow, OpenCV, Gemini 1.0 Pro  
+- **Cloud Services**: Google Cloud Platform (GCP), AWS, Azure AI  
+- **Low Code/No Code Platforms**: Microsoft Power Apps, Power Automate  
+- **Big Data**: Apache Spark, AWS S3, Airflow  
+- **Tools**: Git, JIRA, Oracle BI Publisher, Microsoft Suite  
+- **Special Interests**: NLP, LLMs, Predictive Analytics, Business Strategy through Data
