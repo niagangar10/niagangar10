@@ -12,7 +12,7 @@ In my roles as a Data Analytics Intern and an Analyst, I’m always excited to d
 🎓 **Education**: Master’s in Applied Data Science (University of Chicago), Bachelor’s in Applied Statistics and Analytics (NMIMS University, Mumbai)  
 💡 **What Excites Me**: I have a keen interest in **Predictive Analytics**, **Natural Language Processing** (NLP), **Large Language Models** (LLMs), and how these technologies can be applied to strategic business decision-making.  
 📫 **Let’s Connect**: LinkedIn(https://www.linkedin.com/in/niagangar/) | GitHub(https://github.com/niagangar/nia-githubrepo)  
-⚓ **Fun Fact**: I’m fascinated by the stock market and enjoy analyzing charts and trends in my free time!
+⚓ **Fun Fact**: I am obsessed with adventure sports and hiking!
 
 ### Tech Stack:
 - **Languages**: Python, R, SQL, PL-SQL  
