@@ -4,7 +4,7 @@
 
 I’m a data enthusiast who loves turning complex data into meaningful insights that help shape business strategies and drive impactful solutions. With a strong background in data science and analytics, I specialize in blending predictive modeling, machine learning, and data engineering to create systems that enhance decision-making and optimize performance. 
 
-In my roles as a Data Analytics Intern and an Analyst, I’m always excited to dive into challenging problems—whether it’s designing interactive dashboards to visualize key metrics or developing AI-driven models that streamline processes. I’m passionate about how data can transform industries, and I love collaborating on projects that push the boundaries of innovation.
+In my roles as a Data Science & Analytics Intern and an Analyst, I’m always excited to dive into challenging problems—whether it’s designing interactive dashboards to visualize key metrics or developing AI-driven models that streamline processes. I’m passionate about how data can transform industries, and I love collaborating on projects that push the boundaries of innovation.
 
 ### About Me:
 😄 **What I Love**: Using data to solve real-world problems and inform business strategy. Whether it's improving a company's efficiency or unlocking new opportunities, I believe data is at the heart of great decisions.  
